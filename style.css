@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(246, 242, 242) !important;
+    color:rgb(0, 0, 0) !important;
+    text-align: center;
+    }
+    
+    /* defina o estilo do filmesHead */
+    
+    .filmesHead{
+        /* defina o tamanho da fonte para 20 */
+       font-size: 20px;
+        /* defina o padding para 6px e 22px */
+    padding: 6px 22px;
+        /* defina o raio da borda para 10px */
+    border-radius: 10px;
+        /* defina a margin debaixo para 15px */
+    margin-bottom: 15px;
+    }
+    
+    /* defina o estilo do filmesHead i para que ele flutue para a direita */
+    .filmesHead i{
+       float: right ;
+    }
+    .filmesText span{
+        color: yellow;
+    }
